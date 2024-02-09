@@ -1,0 +1,19 @@
+:root {
+	--black-color: #222831;
+	--gray-color: #393e46;
+	--blue-color: #00adb5;
+	--pink-color: #ff2e63;
+	--white-color: #eeeeee;
+}
+
+*,
+*::after,
+*::before {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: var(--white-color);
+}
