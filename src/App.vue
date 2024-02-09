@@ -67,7 +67,7 @@ const downloadQrCode = () => {
 				<v-col cols="12" md="4" class="d-flex align-center">
 					<div>
 						<p class="text-body-1">Find Me By</p>
-						<h1 class="ml-3 text-h4 logo">SHAKSTICK</h1>
+						<h1 class="ml-3 text-h4 logo">shakurt</h1>
 					</div>
 				</v-col>
 				<v-col cols="12" md="4" class="d-flex justify-center align-center">
